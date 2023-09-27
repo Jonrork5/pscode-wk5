@@ -1,10 +1,10 @@
 // Exercise 1: Calculate the Sum of Two Numbers
 
-(Your pseudocode here)
+(sum=a+b) 
 
 // Exercise 2: Check if a Number is Even or Odd
 
-(Your pseudocode here)
+(sum=c check "c" is even, Check "c" is odd)
 
 // Exercise 3: 
 Write pseudo code that will perform the following.    
@@ -14,6 +14,9 @@ b) Calculate the average of the five numbers.
 c) Find the smallest (minimum) and largest (maximum) of the five entered numbers.
 d) Write out the results found from steps b and c with a message describing what they are
 
-(Your pseudocode here)
+a)(print 1,2,3,4,5)
+b)(add 1+2+3+4+5=15) (divide 15/5=3)
+c)(find smallest value of 1,2,3,4,5=1) (find largest value of 1,2,3,4,5=5)
+d)(print 3 with message "average value of numbers 1,2,3,4,5" (print 1 with message "smallest value of 1,2,3,4,5=1) (print 5 with message "largest value of 1,2,3,4,5=5)
 
 -- END --
